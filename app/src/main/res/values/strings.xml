@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">woof-apps</string>
+    <string name="dog_name_1">Pitbull</string>
+    <string name="dog_name_2">Husky</string>
+    <string name="dog_name_3">Golden</string>
+    <string name="dog_name_4">Pom</string>
+    <string name="description_1">Semoga menjadi anjing yang baik dan tidak gigit orang lain</string>
+    <string name="description_2">Jagan panggil aku kucing paman</string>
+    <string name="description_3">Tal bantal tolong buat tidur saya nyenyak</string>
+    <string name="descripsi4"> anjing baik selalu nurut</string>
+    <string name="about">Pesan:</string>
+    <string name="years_old">%d years old</string>
+    <string name="expand_button_content_description">See mo re or less information about a dog.</string>
+</resources>
